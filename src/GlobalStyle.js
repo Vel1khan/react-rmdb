@@ -40,6 +40,9 @@ export const GlobalStyle = createGlobalStyle`
           color: var(--white);
       }
   }
+   a {
+       text-decoration: none;
+   }
 
 
 
